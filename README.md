@@ -20,7 +20,7 @@ This case study explores a dataset of Amazon products using Microsoft Excel to e
 - What are the top 5 products by ratings × review count?
 
 ### Tools Used
-- Microsoft Excel (PivotTables & Calculated Columns) [Download Here] (https://docs.google.com/spreadsheets/d/1_0Z34mDvDkIbQHUpopc7sBOqD-Q9Y3M8/edit?usp=drivesdk&ouid=105338516515674318702&rtpof=true&sd=true)
+- Microsoft Excel (PivotTables & Calculated Columns) [Download Here](https://docs.google.com/spreadsheets/d/1_0Z34mDvDkIbQHUpopc7sBOqD-Q9Y3M8/edit?usp=drivesdk&ouid=105338516515674318702&rtpof=true&sd=true)
 - Excel Charts & Conditional Formatting
 - GitHub for version control and report hosting
 
